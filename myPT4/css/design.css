@@ -1,0 +1,53 @@
+body{
+	margin: 0;
+	font-family: 'Ubuntu', sans-serif;
+}
+.borderBot{
+	border-bottom: 1px solid #800000;
+}
+h1, label, h2, .arrowColor{
+	color: #800000;
+}
+.tableHeader{
+	background-color: #800000;
+}
+.tableHeader > th{
+	color: white;
+	letter-spacing: 1.5px;
+}
+#staffs-form, #customers-form, #products-form, #forder, table{
+	background-color: white;
+}
+.bgColor{
+	background-color: #800000;
+	border-color: #800000;
+	padding: 0.375rem 0.75rem;
+	color: white;
+	text-decoration: none;
+	display: block;
+	height: 100%;
+}
+.bgColor:hover{
+	color: #ededed;
+	transition: all 0.1s;
+}
+.bgNotActive{
+	background-color:white;
+	padding: 0.375rem 0.75rem;
+	color: #800000;
+	text-decoration: none;
+	display: block;
+	height: 100%;
+}
+.bgNotActive:hover{
+	color: #800000;
+	background-color: #ededed;
+	transition: all 0.1s;
+}
+.cardHeader{
+	background-color: #800000;
+	color: white;
+}
+.arrowColor{
+	text-decoration: none;
+}

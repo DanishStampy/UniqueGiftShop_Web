@@ -1,0 +1,61 @@
+html {
+	width:100%;
+
+	min-height:100%;
+}
+body{
+	margin: 0;
+	background-image: linear-gradient(to right, #aa4465, #c27068, #d09d7d, #dbc8a6, #edf0da);
+	font-family: 'Ubuntu', sans-serif;
+
+}
+.wrapper-menu{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	height: 100vh;
+}
+.title{
+	text-align: center;
+	padding-top: 50px;
+	height: 100vh;
+	width: 100%;
+	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://c1.wallpaperflare.com/preview/562/436/978/market-merchandise-shop-souvenir.jpg');
+}
+.title h1{
+	color: #edf0da;
+	font-size: 80px;
+	margin-bottom: 0.75em;
+	letter-spacing: 2px;
+}
+.title p{
+	color: #edf0da;
+	font-size: 35px;
+	letter-spacing: 2px;
+	margin-top: 2em;
+}
+/*.image-menu{
+	width: 50%;
+}
+.image-menu img{
+	margin: 0 auto;
+	display: block;
+}
+.txt-menu{
+	width: 60%;
+	margin: 30px;
+}
+.txt-menu h1{
+	color: #edf0da;
+	font-size: 80px;
+	margin-bottom: 40px;
+}
+.txt-menu blockquote>p{
+	color: #edf0da;
+	font-size: 24px;
+	font-style: italic;
+	margin-bottom: 16px;
+}
+.zero{
+	margin: 0;		
+}*/
